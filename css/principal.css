@@ -5,7 +5,7 @@
 }
 
 body{
-    background: grey;
+    background: lightblue;
 }
 
 /* Dimensions */
@@ -13,7 +13,7 @@ section{
     color: white;
     font-size: 100px;
     background: red;
-    border: solid 1px yellow;
+    border: solid 1px green;
 }
 
 /* GRID VIEW */
